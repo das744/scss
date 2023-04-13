@@ -1,1 +1,1 @@
-price card with html and scss
+service card with html and scss
